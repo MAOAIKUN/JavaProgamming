@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91c3fb86-27b0-408f-9448-1c523f1819d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/mak/lambda/Closure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mak/lambda/FunctionReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mak/lambda/FunctionalInterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mak/lambda/LambdaInCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mak/lambda/OptionalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mak/operator/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mak/stream/StreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mak/lambda/LambdaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mak/lambda/LambdaTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VmStz36iCYgSpvunTNr8mfHPPf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/mak" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\idea\JavaProgamming\src\com\mak" />
+      <recent name="F:\idea\JavaProgamming\src\com\mak\lambda" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91c3fb86-27b0-408f-9448-1c523f1819d6" name="Default Changelist" comment="" />
+      <created>1577856995409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577856995409</updated>
+      <workItem from="1577856996975" duration="261000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
