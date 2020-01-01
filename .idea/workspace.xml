@@ -2,19 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91c3fb86-27b0-408f-9448-1c523f1819d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mak/lambda/Closure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mak/lambda/FunctionReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mak/lambda/FunctionalInterfaceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mak/lambda/LambdaInCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mak/lambda/OptionalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mak/operator/Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mak/stream/StreamTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mak/lambda/LambdaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mak/lambda/LambdaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mak/verification/AssertTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mak/verification/JunitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mak/verification/PackageAssertionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgramming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/META-INF/JavaProgramming.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/lambda/LambdaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/lambda/LambdaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/modifier/Modifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/modifier/Modifier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mak/modifier/Modifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mak/modifier/Modifier.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,15 +37,94 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/mak" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\idea\JavaProgamming\src\com\mak" />
       <recent name="F:\idea\JavaProgamming\src\com\mak\lambda" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.AssertTest">
+    <configuration name="AssertTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mak.verification.AssertTest" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mak.verification.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PackageAssertionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mak.verification.PackageAssertionTest" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mak.verification.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JunitTest.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mak.verification.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mak.verification" />
+      <option name="MAIN_CLASS_NAME" value="com.mak.verification.JunitTest" />
+      <option name="METHOD_NAME" value="delete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JunitTest.insert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mak.verification.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mak.verification" />
+      <option name="MAIN_CLASS_NAME" value="com.mak.verification.JunitTest" />
+      <option name="METHOD_NAME" value="insert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AssertTest" />
+      <item itemvalue="JUnit.JunitTest.delete" />
+      <item itemvalue="JUnit.JunitTest.insert" />
+      <item itemvalue="Application.PackageAssertionTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AssertTest" />
+        <item itemvalue="Application.PackageAssertionTest" />
+        <item itemvalue="JUnit.JunitTest.insert" />
+        <item itemvalue="JUnit.JunitTest.delete" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -61,11 +148,69 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577856995409</updated>
-      <workItem from="1577856996975" duration="261000" />
+      <workItem from="1577856996975" duration="8611000" />
     </task>
+    <task id="LOCAL-00001" summary="home">
+      <created>1577857501344</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577857501344</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="home" />
+    <option name="LAST_COMMIT_MESSAGE" value="home" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577867840814">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577867840814" />
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1577862758904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577862758904" />
+    <state x="560" y="110" key="CommitChangelistDialog2" timestamp="1577857500157">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="110" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577857500157" />
+    <state width="1877" height="307" key="GridCell.Tab.0.bottom" timestamp="1577867418081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="307" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577867418081" />
+    <state width="1877" height="307" key="GridCell.Tab.0.center" timestamp="1577867418081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="307" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577867418081" />
+    <state width="1877" height="307" key="GridCell.Tab.0.left" timestamp="1577867418080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="307" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577867418080" />
+    <state width="1877" height="307" key="GridCell.Tab.0.right" timestamp="1577867418081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="307" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577867418081" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1577866979526">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577866979526" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1577857526651">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577857526651" />
+    <state x="658" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1577858012295">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="658" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1577858012295" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1577867474706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577867474706" />
   </component>
 </project>

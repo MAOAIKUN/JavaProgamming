@@ -25,4 +25,8 @@ public class Modifier {
 
         System.out.println(modifier.name);
     }
+
+    public void test(){
+        assert false : "不同包的断言测试";
+    }
 }
