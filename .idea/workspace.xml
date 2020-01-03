@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91c3fb86-27b0-408f-9448-1c523f1819d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mak/verification/AssertTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mak/verification/JunitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mak/verification/PackageAssertionTest.java" afterDir="false" />
+    <list default="true" id="6a83ddd8-6683-446b-b379-76eccef96943" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/mak/io/SystemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mak/string/StringTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgramming.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/META-INF/JavaProgramming.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/lambda/LambdaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/lambda/LambdaTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/modifier/Modifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/modifier/Modifier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mak/modifier/Modifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mak/modifier/Modifier.java" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +24,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VmStz36iCYgSpvunTNr8mfHPPf" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -44,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/mak" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -52,7 +48,19 @@
       <recent name="F:\idea\JavaProgamming\src\com\mak\lambda" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AssertTest">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.StringTest">
     <configuration name="AssertTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mak.verification.AssertTest" />
       <module name="JavaProgramming" />
@@ -79,23 +87,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JunitTest.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mak.string.StringTest" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mak.verification.*" />
+          <option name="PATTERN" value="com.mak.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.mak.verification" />
-      <option name="MAIN_CLASS_NAME" value="com.mak.verification.JunitTest" />
-      <option name="METHOD_NAME" value="delete" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JunitTest.insert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SystemTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mak.io.SystemTest" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mak.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestScope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mak.verification.TestScope" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
@@ -103,52 +122,39 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.mak.verification" />
-      <option name="MAIN_CLASS_NAME" value="com.mak.verification.JunitTest" />
-      <option name="METHOD_NAME" value="insert" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.AssertTest" />
-      <item itemvalue="JUnit.JunitTest.delete" />
-      <item itemvalue="JUnit.JunitTest.insert" />
       <item itemvalue="Application.PackageAssertionTest" />
+      <item itemvalue="Application.TestScope" />
+      <item itemvalue="Application.SystemTest" />
+      <item itemvalue="Application.StringTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringTest" />
+        <item itemvalue="Application.SystemTest" />
+        <item itemvalue="Application.TestScope" />
         <item itemvalue="Application.AssertTest" />
         <item itemvalue="Application.PackageAssertionTest" />
-        <item itemvalue="JUnit.JunitTest.insert" />
-        <item itemvalue="JUnit.JunitTest.delete" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="91c3fb86-27b0-408f-9448-1c523f1819d6" name="Default Changelist" comment="" />
+      <changelist id="6a83ddd8-6683-446b-b379-76eccef96943" name="Default Changelist" comment="" />
       <created>1577856995409</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577856995409</updated>
       <workItem from="1577856996975" duration="8611000" />
+      <workItem from="1577946098339" duration="3438000" />
     </task>
     <task id="LOCAL-00001" summary="home">
       <created>1577857501344</created>
@@ -162,6 +168,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="home" />
