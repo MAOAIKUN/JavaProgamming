@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a83ddd8-6683-446b-b379-76eccef96943" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mak/io/SystemTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mak/string/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mak/stream/StreamConstructor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgramming.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringTest">
+  <component name="RunManager" selected="Application.StreamConstructor">
     <configuration name="AssertTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mak.verification.AssertTest" />
       <module name="JavaProgramming" />
@@ -74,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PackageAssertionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mak.verification.PackageAssertionTest" />
+    <configuration name="StreamConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mak.stream.StreamConstructor" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mak.verification.*" />
+          <option name="PATTERN" value="com.mak.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,18 +126,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.AssertTest" />
-      <item itemvalue="Application.PackageAssertionTest" />
       <item itemvalue="Application.TestScope" />
       <item itemvalue="Application.SystemTest" />
       <item itemvalue="Application.StringTest" />
+      <item itemvalue="Application.StreamConstructor" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamConstructor" />
         <item itemvalue="Application.StringTest" />
         <item itemvalue="Application.SystemTest" />
         <item itemvalue="Application.TestScope" />
         <item itemvalue="Application.AssertTest" />
-        <item itemvalue="Application.PackageAssertionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -155,6 +153,8 @@
       <updated>1577856995409</updated>
       <workItem from="1577856996975" duration="8611000" />
       <workItem from="1577946098339" duration="3438000" />
+      <workItem from="1578046038251" duration="116000" />
+      <workItem from="1578386872521" duration="954000" />
     </task>
     <task id="LOCAL-00001" summary="home">
       <created>1577857501344</created>
@@ -163,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577857501344</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="信辉科技">
+      <created>1578046145529</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578046145529</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,7 +181,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -182,7 +191,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="home" />
-    <option name="LAST_COMMIT_MESSAGE" value="home" />
+    <MESSAGE value="信辉科技" />
+    <option name="LAST_COMMIT_MESSAGE" value="信辉科技" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577867840814">
