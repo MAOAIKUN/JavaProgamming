@@ -1,11 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a83ddd8-6683-446b-b379-76eccef96943" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mak/stream/StreamConstructor.java" afterDir="false" />
+    <list default="true" id="91c3fb86-27b0-408f-9448-1c523f1819d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/date/DateTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/date/DateTimeFormatterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/date/LocalDateTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/date/LocalDateTimeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/date/LocalTimeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/date/MonthDayTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/date/PeriodTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/date/YearMonthTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/io/SystemTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/lambda/Closure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/lambda/Comparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/lambda/CreateObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/lambda/FunctionReference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/lambda/FunctionalInterfaceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/lambda/LambdaInCollection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/lambda/NoReturnMultipleParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/lambda/NoReturnNoParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/lambda/NoReturnSingleParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/lambda/OptionalTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/lambda/ReturnMultipleParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/lambda/ReturnNoParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/lambda/ReturnSingleParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/lambda/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/operator/Operator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/stream/StreamConstructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/stream/StreamOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/stream/StreamTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/string/StringTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/verification/AssertTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/verification/JunitTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/verification/Load.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/verification/Load2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/com/mak/verification/PackageAssertionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mak/date/DateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mak/date/DateTimeFormatterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mak/date/LocalDateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mak/date/LocalDateTimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mak/date/LocalTimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mak/date/MonthDayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mak/date/PeriodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mak/date/YearMonthTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mak/stream/StreamOperator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mak/stream/StreamConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mak/stream/StreamConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mak/verification/AssertTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mak/verification/AssertTest.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +62,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1VmStz36iCYgSpvunTNr8mfHPPf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -38,7 +81,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/mak" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -46,25 +89,13 @@
       <recent name="F:\idea\JavaProgamming\src\com\mak\lambda" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.StreamConstructor">
-    <configuration name="AssertTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mak.verification.AssertTest" />
+  <component name="RunManager" selected="Application.DateTimeFormatterTest">
+    <configuration name="DateTimeFormatterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mak.date.DateTimeFormatterTest" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mak.verification.*" />
+          <option name="PATTERN" value="com.mak.date.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mak.stream.StreamConstructor" />
+    <configuration name="LocalDateTimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mak.date.LocalDateTimeTest" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mak.stream.*" />
+          <option name="PATTERN" value="com.mak.date.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mak.string.StringTest" />
+    <configuration name="LocalTimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mak.date.LocalTimeTest" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mak.string.*" />
+          <option name="PATTERN" value="com.mak.date.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SystemTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mak.io.SystemTest" />
+    <configuration name="PeriodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mak.date.PeriodTest" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mak.io.*" />
+          <option name="PATTERN" value="com.mak.date.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestScope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mak.verification.TestScope" />
+    <configuration name="YearMonthTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mak.date.YearMonthTest" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mak.verification.*" />
+          <option name="PATTERN" value="com.mak.date.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,36 +156,46 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AssertTest" />
-      <item itemvalue="Application.TestScope" />
-      <item itemvalue="Application.SystemTest" />
-      <item itemvalue="Application.StringTest" />
-      <item itemvalue="Application.StreamConstructor" />
+      <item itemvalue="Application.LocalDateTimeTest" />
+      <item itemvalue="Application.LocalTimeTest" />
+      <item itemvalue="Application.YearMonthTest" />
+      <item itemvalue="Application.PeriodTest" />
+      <item itemvalue="Application.DateTimeFormatterTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamConstructor" />
-        <item itemvalue="Application.StringTest" />
-        <item itemvalue="Application.SystemTest" />
-        <item itemvalue="Application.TestScope" />
-        <item itemvalue="Application.AssertTest" />
+        <item itemvalue="Application.DateTimeFormatterTest" />
+        <item itemvalue="Application.PeriodTest" />
+        <item itemvalue="Application.YearMonthTest" />
+        <item itemvalue="Application.LocalTimeTest" />
+        <item itemvalue="Application.LocalDateTimeTest" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6a83ddd8-6683-446b-b379-76eccef96943" name="Default Changelist" comment="" />
+      <changelist id="91c3fb86-27b0-408f-9448-1c523f1819d6" name="Default Changelist" comment="" />
       <created>1577856995409</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577856995409</updated>
-      <workItem from="1577856996975" duration="8611000" />
-      <workItem from="1577946098339" duration="3438000" />
-      <workItem from="1578046038251" duration="116000" />
-      <workItem from="1578386872521" duration="954000" />
+      <workItem from="1577856996975" duration="8676000" />
+      <workItem from="1578724704690" duration="16703000" />
     </task>
     <task id="LOCAL-00001" summary="home">
       <created>1577857501344</created>
@@ -163,12 +204,12 @@
       <option name="project" value="LOCAL" />
       <updated>1577857501344</updated>
     </task>
-    <task id="LOCAL-00002" summary="信辉科技">
-      <created>1578046145529</created>
+    <task id="LOCAL-00002" summary="assert">
+      <created>1577886217004</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1578046145529</updated>
+      <updated>1577886217004</updated>
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
@@ -176,23 +217,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="home" />
-    <MESSAGE value="信辉科技" />
-    <option name="LAST_COMMIT_MESSAGE" value="信辉科技" />
+    <MESSAGE value="assert" />
+    <option name="LAST_COMMIT_MESSAGE" value="assert" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577867840814">
@@ -203,41 +231,81 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577862758904" />
-    <state x="560" y="110" key="CommitChangelistDialog2" timestamp="1577857500157">
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1578729888976">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="110" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577857500157" />
-    <state width="1877" height="307" key="GridCell.Tab.0.bottom" timestamp="1577867418081">
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578729888976" />
+    <state x="560" y="110" key="CommitChangelistDialog2" timestamp="1577886215143">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="307" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577867418081" />
-    <state width="1877" height="307" key="GridCell.Tab.0.center" timestamp="1577867418081">
+    <state x="560" y="110" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577886215143" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1578756456239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="307" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577867418081" />
-    <state width="1877" height="307" key="GridCell.Tab.0.left" timestamp="1577867418080">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578756456239" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1578756456239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="307" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577867418080" />
-    <state width="1877" height="307" key="GridCell.Tab.0.right" timestamp="1577867418081">
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578756456239" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1578756456238">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="307" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577867418081" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578756456238" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1578756456239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578756456239" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1578753385359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578753385359" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1578753385359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578753385359" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1578753385359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578753385359" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1578753385359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578753385359" />
+    <state x="669" y="235" key="MultipleFileMergeDialog" timestamp="1578725041770">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="235" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578725041770" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1577866979526">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577866979526" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1577857526651">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1578761225191">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577857526651" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578761225191" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1578724739783">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578724739783" />
     <state x="658" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1577858012295">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="658" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1577858012295" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1577867474706">
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578725025264">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577867474706" />
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578725025264" />
+    <state x="636" y="258" width="647" height="524" key="find.popup" timestamp="1578726518632">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="258" width="647" height="524" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578726518632" />
+    <state x="636" y="311" key="git4idea.merge.GitPullDialog" timestamp="1578725054849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="311" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578725054849" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1578756277298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578756277298" />
   </component>
 </project>

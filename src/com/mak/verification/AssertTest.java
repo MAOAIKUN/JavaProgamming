@@ -23,7 +23,7 @@ import com.mak.modifier.Modifier;
 
 public class AssertTest {
 
-    //用来判断改类是否开启了断言
+    //用来判断该类是否开启了断言
 
     static {
         boolean assertStatus = false;
